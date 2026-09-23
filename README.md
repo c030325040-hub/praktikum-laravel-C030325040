@@ -69,3 +69,6 @@ Project ini merupakan hasil praktikum Laravel yang digunakan untuk mempelajari d
 1. Clone repository:
 ```bash
 git clone https://github.com/username/praktikum-laravel-C030325040.git
+## Update Praktikum 6
+
+Repository telah diperbarui untuk mempraktikkan proses push dan pull menggunakan Git.
