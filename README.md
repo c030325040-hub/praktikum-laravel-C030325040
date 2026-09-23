@@ -58,3 +58,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 Poliban Angkatan 2025
 Politeknik Negeri Banjarmasin
+
+# Praktikum Laravel - C030325040
+
+## Deskripsi
+Project ini merupakan hasil praktikum Laravel yang digunakan untuk mempelajari dasar-dasar pengembangan aplikasi web menggunakan framework Laravel.
+
+## Cara Menjalankan Project
+
+1. Clone repository:
+```bash
+git clone https://github.com/username/praktikum-laravel-C030325040.git
